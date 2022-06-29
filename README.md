@@ -1,2 +1,2 @@
 # burpsuite-blindSQLi
-Simple script that I made to exploit the blind SQL injection module during the burpsuite academy 
+I wanted to train in python and I'm training for the burpsuite certification. The module was about blind SQL injections. Burpsuite was slow so I did it in python :)
