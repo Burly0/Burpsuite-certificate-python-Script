@@ -35,7 +35,7 @@ def test_password():
             a = requests.get(url, cookies=cookie)
             output = a.text
             if re.search(flag,output):
-                nbr=1
+                nbr+=1
                 password+=i
                 print(password,end='')
 
